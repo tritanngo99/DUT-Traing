@@ -10,3 +10,9 @@ Link Đề:
 7. Số nguyên tố - prob(6).pdf
 8. Đổi tiền - prob(7).pdf
 9. Cắt cỏ - prob(8).pdf
+10. K thao tác - prob(9).pdf
+11. Thử thách tình yêu 2 - prob(10).pdf
+12. Đốt dây - prob(11).pdf
+13. Nhân số lớn - prob(12).pdf
+14. Cắt dây - prob(13).pdf
+15. Tạo chuỗi - prob(14).pdf
