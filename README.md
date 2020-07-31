@@ -16,3 +16,6 @@ Link Đề:
 13. Nhân số lớn - prob(12).pdf
 14. Cắt dây - prob(13).pdf
 15. Tạo chuỗi - prob(14).pdf
+16. Số hàng xóm - prob(15).pdf
+17. Chia bi - prob(16).pdf
+18. Biểu thức ma trận - prob(17).pdf
