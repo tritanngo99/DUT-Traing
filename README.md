@@ -19,3 +19,5 @@ Link Đề:
 16. Số hàng xóm - prob(15).pdf
 17. Chia bi - prob(16).pdf
 18. Biểu thức ma trận - prob(17).pdf
+19. Tổng bằng K - prob(18).pdf
+20. 
