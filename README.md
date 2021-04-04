@@ -20,4 +20,8 @@ Link Đề:
 17. Chia bi - prob(16).pdf
 18. Biểu thức ma trận - prob(17).pdf
 19. Tổng bằng K - prob(18).pdf
-20. 
+20. Tam giác - prob (19).pdf
+21. Đồng hồ - prob (20).pdf
+22. Các cặp số - prob(21).pdf
+23. Đường thẳng - prob(22).pdf
+24. Game Thủ - prob(23).pdf
